@@ -1,0 +1,24 @@
+body {
+    font-family: "Roboto", "Raleway", sans-serif;
+}
+.logo-web {
+    font-family: "Raleway";
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 21px;
+    font-style: normal;
+    letter-spacing: 0.03em;
+    text-align: left;
+    color: #4D5AE5;
+}
+.logo-studio {
+    font-family: "Raleway";
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 21px;
+    font-style: normal;
+    letter-spacing: 0.03em;
+    text-align: left;
+    color: #2E2F42;
+}
+

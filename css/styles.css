@@ -2,6 +2,9 @@ body {
     font-family: "Roboto", sans-serif;
     background-color: #FAFAFA;
 }
+footer{
+background: #2e2f42;
+}
 a {
     font-family: "Roboto", sans-serif;
      font-weight: 400;
@@ -45,7 +48,8 @@ a {
         letter-spacing: 0.02em;
         color: #2e2f42;
  }
-/* main */
+ */
+/* main 
 .main {
     background: #2e2f42;
 }
@@ -67,12 +71,39 @@ a {
     box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
     background: #4d5ae5;
 }
+*/
 
 
 
-
-/* header */
-/* footer */
+/* header 
+.text-list {
+    font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #434455;
+}
+*/
+/* team 
+.text-team {
+    font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: #434455;
+}
+*/
+/* portfolio 
+.text-portfolio {
+    font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #434455;
+}
+*/
+/* footer 
 .text-footer {
     font-weight: 400;
     font-size: 16px;
@@ -80,3 +111,4 @@ a {
     letter-spacing: 0.02em;
     color: #f4f4fd;
 }
+*/
